@@ -1,0 +1,12 @@
+Country,Age ,Salary,Purchased
+India,40,100000,Yes
+France,44,48000,No
+Spain,50,50000,Yes
+Germany,39,,No
+India,45,200000,Yes
+Spain,35,80000,No
+France,,40000,Yes
+India,30,90000,Yes
+Germany,,20000,No
+France,40,,Yes
+India,,50000,No
